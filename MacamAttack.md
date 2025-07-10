@@ -111,9 +111,3 @@ Penyerang menggunakan model AI/NLP untuk menebak kata dalam Bahasa Indonesia.
 | Mapping File Exposure  | ⚠️ Tinggi         | Mapping = kunci utama |
 | Hybrid AI              | ❌ Rendah         | Masih skenario riset |
 
----
-
-**Disarankan:**  
-- Gunakan sistem mapping harian + hash waktu  
-- Jangan buka akses enkripsi plaintext publik  
-- Amankan file mapping token dengan enkripsi tambahan
